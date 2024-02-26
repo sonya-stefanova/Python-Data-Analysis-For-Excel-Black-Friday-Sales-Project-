@@ -1,2 +1,2 @@
-# data_analysis_BI_Excel
+# Data analysis with Python for Excel
 This is a practical project for data analysis carried out with Python (Openpyxl) for Excel
